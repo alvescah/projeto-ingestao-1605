@@ -1,4 +1,4 @@
-# Pojeto Ingestão de dados
+# Projeto Ingestão de dados
 
 **Engenheiros(as):** Marcos Vinicius Pontarolo, Leandro Florêncio, Larissa Oliveira Pereira, Felipe Gritten e Ana Carolina Alves
 
