@@ -1,5 +1,7 @@
 # Pojeto Ingestão de dados
 
+**Engenheiros(as):** Marcos Vinicius Pontarolo, Leandro Florêncio, Larissa Oliveira Pereira, Felipe Gritten e Ana Carolina Alves
+
 “Entre nós, você vem primeiro.”
 
 Os clientes são muito importantes para o Bra e, por isso, a busca pela melhora do atendimento e sua experiência com a empresa é imprescindível.
@@ -15,5 +17,6 @@ Faz-se necessário extrair os dados da plataforma para que sejam utilizados em n
 
 
 ## Diagrama de Ingestão:
-
-[Diagrama]()
+<div align="center">
+<img src="diagrama.png" alt="drawing" width="600"/>
+</div>
