@@ -52,5 +52,5 @@ Ferramentas utilizadas:
 
 ## Diagrama de Ingestão (novas implementações):
 <div align="center">
-<img src="projeto_vocacao.png" alt="drawing" width="600"/>
+<img src="diagrama_V2.png" alt="drawing" width="900"/>
 </div>
