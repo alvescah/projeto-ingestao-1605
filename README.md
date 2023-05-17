@@ -1,6 +1,10 @@
 # Projeto Ingestão de dados
 
-Desafio proposto (1):
+<div align="center">
+<img src="dados.gif" alt="drawing" width="300"/>
+</div>
+
+### _Desafio proposto (1):_ 🚀
 
 1) Definição de um problema (podem escolher "a gosto")
 2) Definição ingestão em dados (local da origem, pode ja existir ou pode ser gerado, qual ferramenta que vão usar)
@@ -30,7 +34,7 @@ Faz-se necessário extrair os dados da plataforma para que sejam utilizados em n
 <img src="diagrama.png" alt="drawing" width="600"/>
 </div>
 
-Desafio proposto (2):
+### _Desafio proposto (2):_ 🚀
 
 5) Definição de uma camada de processamento
 6) Definição de uma camada de exploração
@@ -39,7 +43,14 @@ Desafio proposto (2):
 
 ## O Projeto (Seguimento)
 
+Ferramentas utilizadas:
+
+ - **Hadoop:** Processamento de grande volume de dados em cluster
+ - **Spark / Python:** Velocidade, Fácil de usar, generalidade, conexão com Python
+ - **Airflow:** Orquestração e schedule de processos Python - Tratamento de dados
+ - **Power Bi:** Construção de relatorios e Dashboards de forma eficaz
+
 ## Diagrama de Ingestão (novas implementações):
 <div align="center">
-<img src="diagrama.png" alt="drawing" width="600"/>
+<img src="projeto_vocacao.png" alt="drawing" width="600"/>
 </div>
