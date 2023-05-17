@@ -36,3 +36,10 @@ Desafio proposto (2):
 6) Definição de uma camada de exploração
 7) Definição de uma camada de disponibilização
 8) Pesquisa de ferramentas (ex qual a motivação de usar as ferramentas escolhidas)
+
+## O Projeto (Seguimento)
+
+## Diagrama de Ingestão (novas implementações):
+<div align="center">
+<img src="diagrama.png" alt="drawing" width="600"/>
+</div>
