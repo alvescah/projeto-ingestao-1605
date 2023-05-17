@@ -1,5 +1,14 @@
 # Projeto Ingestão de dados
 
+Desafio proposto (1):
+
+1) Definição de um problema (podem escolher "a gosto")
+2) Definição ingestão em dados (local da origem, pode ja existir ou pode ser gerado, qual ferramenta que vão usar)
+3) Definição arquitetura (desenho no minimo 2 partes do todo ingestão e amazenamento como sera)
+4) Subir no git - 1
+
+## O Projeto
+
 **Engenheiros(as):** Marcos Vinicius Pontarolo, Leandro Florêncio, Larissa Oliveira Pereira, Felipe Gritten e Ana Carolina Alves
 
 “Entre nós, você vem primeiro.”
@@ -20,3 +29,10 @@ Faz-se necessário extrair os dados da plataforma para que sejam utilizados em n
 <div align="center">
 <img src="diagrama.png" alt="drawing" width="600"/>
 </div>
+
+Desafio proposto (2):
+
+5) Definição de uma camada de processamento
+6) Definição de uma camada de exploração
+7) Definição de uma camada de disponibilização
+8) Pesquisa de ferramentas (ex qual a motivação de usar as ferramentas escolhidas)
